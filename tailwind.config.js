@@ -6,7 +6,7 @@ module.exports = {
     // we want to add break points for media queries
     screens: {
       sm: "480px",
-      md: "780px",
+      md: "768px",
       lg: "976px",
       xl: "1440px"
     },
